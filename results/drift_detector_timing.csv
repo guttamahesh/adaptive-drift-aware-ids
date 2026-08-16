@@ -1,4 +1,4 @@
 detector,n_drift_signals,n_retrains,chunks_to_retrain_after_phase2_start,chunks_to_retrain_after_phase3_start,mean_adaptive_macro_f1,mean_adaptive_fpr,total_retrain_seconds,mean_seconds_per_retrain
-ADWIN,4,4,3,3,0.4747,0.0341,0.2901,0.0725
-DDM,2,2,3,8,0.4571,0.0275,0.1559,0.0779
-EDDM,5,5,3,12,0.4529,0.0375,0.3387,0.0677
+ADWIN,4,4,3,3,0.4747,0.0341,0.2909,0.0727
+DDM,2,2,3,8,0.4571,0.0275,0.158,0.079
+EDDM,5,5,3,12,0.4529,0.0375,0.344,0.0688
