@@ -1,5 +1,5 @@
 detector,phase1_holdout_macro_f1,phase2_holdout_macro_f1,phase3_holdout_macro_f1,phase1_holdout_fpr,phase2_holdout_fpr,phase3_holdout_fpr
-ADWIN,0.7429,0.5282,0.2456,0.0274,0.0,0.0255
-DDM,0.6048,0.524,0.2872,0.0274,0.0051,0.0223
-EDDM,0.6934,0.5181,0.3412,0.0411,0.0152,0.0262
-Static (no adaptation),0.8118,0.0588,0.0915,0.0,0.0,0.002
+ADWIN,0.6726,0.4945,0.2945,0.0411,0.0102,0.0308
+DDM,0.687,0.5345,0.2932,0.0274,0.0051,0.0223
+EDDM,0.6876,0.4965,0.2382,0.0411,0.0051,0.0216
+Static (no adaptation),0.7985,0.0591,0.0918,0.0,0.0,0.002
